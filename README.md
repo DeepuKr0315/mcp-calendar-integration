@@ -88,7 +88,7 @@ NOTION_DATABASE_ID=your_notion_database_id_here
 `python src/notion_server.py`
 
 * **Test Calendar Integration**:
-`Test Calendar Integration:`
+`python test_calendar_client.py`
 
 ## MCP Tools Available
 
