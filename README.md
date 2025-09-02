@@ -181,28 +181,3 @@ For support, please open an issue in the GitHub repository.
 ⭐ If you found this project helpful, please give it a star! EOF
 
 ```
-
-**Also create the .env.example file:**
-
-```
-cat > .env.example << 'EOF'
-# Copy this file to .env and fill in your actual values
-
-# Google Calendar API Configuration
-GOOGLE_CREDENTIALS_FILE=credentials.json
-GOOGLE_TOKEN_FILE=token.json
-
-# Notion API Configuration
-NOTION_API_KEY=your_notion_api_key_here
-NOTION_DATABASE_ID=your_notion_database_id_here
-
-# Optional: Trello API (if you want to extend to Trello)
-TRELLO_API_KEY=your_trello_api_key_here
-TRELLO_TOKEN=your_trello_token_here
-
-# Optional: Jira API (if you want to extend to Jira)
-JIRA_URL=your_jira_url_here
-JIRA_USERNAME=your_username_here
-JIRA_API_TOKEN=your_jira_token_here
-EOF
-```
