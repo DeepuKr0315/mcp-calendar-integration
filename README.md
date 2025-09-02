@@ -179,6 +179,4 @@ Acknowledgments
 ## Support
 For support, please open an issue in the GitHub repository.
 ---
-⭐ If you found this project helpful, please give it a star! EOF
-
-```
+⭐ If you found this project helpful, please give it a star!
