@@ -73,20 +73,21 @@ NOTION_DATABASE_ID=your_notion_database_id_here
 ### Interactive Workflow
 `python calendar_to_notion_workflow.py`
 
-Choose from:
+* Choose from:
 
 1. **Sync today's events** - Process today's calendar events
 2. **Sync specific date** - Process events from any date
 3. **Test connections** - Verify both servers work
 
 ### Individual Servers
-#### Calendar Server:
+
+#### * Calendar Server:
 `python src/calendar_server.py`
 
-#### Notion Server:
+#### * Notion Server:
 `python src/notion_server.py`
 
-#### Test Calendar Integration:
+#### * Test Calendar Integration:
 `Test Calendar Integration:`
 
 ## MCP Tools Available
