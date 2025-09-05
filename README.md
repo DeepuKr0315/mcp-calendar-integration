@@ -22,7 +22,7 @@ Automatically sync your Google Calendar events to Notion tasks with AI-powered a
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/deepanshukr0315/calendar-notion-mcp-sync.git
+git clone https://github.com/deepanshukr0315/mcp-calendar-integration.git
 cd calendar-notion-mcp-sync
 ```
 
